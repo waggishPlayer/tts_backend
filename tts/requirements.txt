@@ -1,7 +1,5 @@
-# core Python packages
-pip install fastapi uvicorn[standard] faster-whisper ffmpeg-python python-multipart
-
-# you also need the FFmpeg binary in PATH
-# macOS (brew):  brew install ffmpeg
-# Debian/Ubuntu:  sudo apt-get install ffmpeg
-# Windows (scoop): scoop install ffmpeg
+fastapi
+uvicorn[standard]
+faster-whisper
+ffmpeg-python
+python-multipart
