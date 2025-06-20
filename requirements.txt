@@ -3,3 +3,5 @@ uvicorn[standard]
 faster-whisper
 ffmpeg-python
 python-multipart
+starlette
+pyttsx3 
